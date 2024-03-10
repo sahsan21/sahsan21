@@ -8,8 +8,6 @@
 ###
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahsan21&label=Profile%20views&color=0e75b6&style=flat" alt="sahsan21" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahsan21&theme=discord" alt="sahsan21" /></a> </p>
-
 - 🌱 I’m currently learning **Node.js, React, Flask etc.**
 
 - 📫 How to reach me **akibahsan03@gmail.com**
@@ -44,5 +42,4 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/pandas-original.svg" alt="Pandas" width="40" height="40"/>
 </p>
 
-<h3 align="left">Stars</h3>
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=sahsan21&show_icons=true&locale=en&theme=synthwave" alt="sahsan21" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahsan21&theme=discord" alt="sahsan21" /></a> </p>
