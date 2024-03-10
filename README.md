@@ -14,14 +14,7 @@
 
 - 📫 How to reach me **akibahsan03@gmail.com**
 - 👨‍💻 All of my projects are available at **https://github.com/sahsan21**
-<div align="left">
-  <a href="https://www.linkedin.com/in/sarwar-ahsan-069913238/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="akibahsan03@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
+
 
 <h3 align="left">Connect with me:</h3>
 <div> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/sarwar-ahsan-069913238/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
