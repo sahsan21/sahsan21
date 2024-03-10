@@ -3,7 +3,8 @@
 
 ###
 
-<p align="left">🔒 Cybersecurity Enthusiast | 🌐 Web Developer<br>👨‍💻 I'm passionate about cybersecurity and actively learning through certification courses. My interests also extend to machine learning, where I've explored libraries like pandas, scikit-learn, and matplotlib.<br><br>🎮 In addition to my technical pursuits, I enjoy creating fun board games and have experience in web development.<br><br>🛠️ My project portfolio includes working with a variety of languages and technologies, including JavaScript, Python, Java Swing, and C. Check out one of my projects here.<br><br>📚 Always learning and looking to collaborate on interesting projects!</p>
+<p align="left">🔒 Cybersecurity Enthusiast | 🌐 Web Developer
+<br>👨‍💻 I'm passionate about cybersecurity and actively learning through certification courses. My interests also extend to machine learning, where I've explored libraries like pandas, scikit-learn, and matplotlib.<br><br>🎮 In addition to my technical pursuits, I enjoy creating fun board games and have experience in web development.<br><br>🛠️ My project portfolio includes working with a variety of languages and technologies, including JavaScript, Python, Java Swing, and C. Check out one of my projects here.<br><br>📚 Always learning and looking to collaborate on interesting projects!</p>
 
 ###
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahsan21&label=Profile%20views&color=0e75b6&style=flat" alt="sahsan21" /> </p>
